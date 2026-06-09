@@ -1,0 +1,6 @@
+{
+  "name": "SwiftBeam",
+  "description": "Offline peer-to-peer file sharing mobile application with local networking simulation, QR download codes, transfer logs, and subscription management.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,16 @@
+{
+  "appId": "com.swiftbeam.app",
+  "appName": "SwiftBeam",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https",
+    "allowNavigation": ["*"]
+  },
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_status_icon",
+      "iconColor": "#4F46E5",
+      "sound": "beep.wav"
+    }
+  }
+}
